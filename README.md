@@ -7,7 +7,7 @@
 
 <br/>
 
-## 🎯 About
+<!-- ## 🎯 About
 
 I have started this project with the purpose of learning how to structure a Web App of a mid-level complexity integrating the Redux logic.<br/>
 I've tried to replicate the original layout as much as possible and I've also made some improvements in some sections inserting route animations and micro-interactions. I've also inserted a really close clone of Netflix's original splash animation (forked from a famous [codepen from Claudio Bonfati](https://codepen.io/claudio_bonfati/pen/mdryxPv)), made entirely with CSS, as well as the play animation. I have then sampled the original Netflix "ta-duummm" sound and I made it play along with the two animations.<br/>
@@ -17,7 +17,7 @@ Each row represents a movie/series category: you can click on it and you will be
 You can add/remove movies/series through the plus and minus buttons that you can find hovering each poster or opening a single movie's detail modal. If you click on the play button you can enjoy a custom CSS-only play animation with RAJATFLIX'S brand name.<br/>
 You have also the option to search through TMDB's catalogue using the search functionality inside the fixed navbar: you can search by movie name, actor or movie director.<br/><br/>
 Go try it and please let me know if you enjoyed it with a ⭐️, I would appreciate it a lot.
-<br/>
+<br/> -->
 
 <!-- ## ▶️ Demo
 
@@ -98,19 +98,19 @@ I have also added a button that lets you sign in anonymously.
 ![Screenshot of Fakeflix Homepage](https://github.com/RajatMehta25/RajatFlix/blob/master/public/HomePage.png)
 <br/>
 
-**Modal Detail**
+<!-- **Modal Detail**
 ![Screenshot of Fakeflix Modal Detail](https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/Fakeflix/screenshots/Fakeflix_DetailModal.jpg)
-<br/>
+<br/> -->
 
-**Mobile Experience**
+<!-- **Mobile Experience**
 
 https://user-images.githubusercontent.com/25078541/123543831-b8a35700-d750-11eb-84dc-b53e5a9a997a.mp4
 
-<br/>
+<br/> -->
 
-**Desktop Experience**
+<!-- **Desktop Experience**
 
-https://user-images.githubusercontent.com/25078541/123811962-01474580-d8f4-11eb-83ba-66cded3f321f.mp4
+https://user-images.githubusercontent.com/25078541/123811962-01474580-d8f4-11eb-83ba-66cded3f321f.mp4 -->
 
 <br/>
 
