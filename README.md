@@ -1,7 +1,7 @@
 <h1 align="center">RAJATFLIX</h1>
 <h5 align="center">Not the usual clone that you can find on the web.</h5><br/>
 
-<centre >https://github.com/RajatMehta25/RajatFlix/blob/master/src/images/rajatflix.png</centre>
+![Image of RajatFlix Project](https://github.com/RajatMehta25/RajatFlix/blob/master/src/images/rajatflix.png)
 
 <!-- https://user-images.githubusercontent.com/25078541/123811962-01474580-d8f4-11eb-83ba-66cded3f321f.mp4 -->
 
