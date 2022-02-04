@@ -26,12 +26,12 @@ Here you can find the demo links:
 - [Custom](https://fakeflix.th3wall.codes)
 - [Netlify](https://fakeflix-app.netlify.app) -->
 
-### Test credentials (for lazy users 😓)
+<!-- ### Test credentials (for lazy users 😓) -->
 
 <!-- > Email: fakeflixuser@test.com<br/>
 > Password: FakeflixTest<br/> -->
 
-I have also added a button that lets you sign in anonymously.
+<!-- I have also added a button that lets you sign in anonymously. -->
 
 ## :sparkles: Features
 

@@ -1,5 +1,5 @@
-{
-  "name": "fakeflix",
+{ "homepage": "https://github.com/RajatMehta25/RajatFlix",
+  "name": "rajatflix",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
