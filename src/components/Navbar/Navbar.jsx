@@ -13,6 +13,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { selectCurrentUser } from "../../redux/auth/auth.selectors";
 import { signOutStart } from "../../redux/auth/auth.actions";
 
+
 const Navbar = () => {
 	const { width } = useViewport();
 	const isScrolled = useScroll(70);

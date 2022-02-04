@@ -15,7 +15,7 @@ const Credits = () => {
 			<span>Developed by</span>
 			<motion.a whileTap={{scale: 0.9}} className='Credits__linkwrp' href={GITHUB_BASE_URL} target='_blank' rel='noreferrer'>
 				<span> RAJAT MEHTA</span>
-				<img className='Credits__avatar' src={GITHUB_AVATAR_URL} alt='Credits Avatar' />
+				<img className='Credits__avatar' style={{borderRadius:"20px"}}src={GITHUB_AVATAR_URL} alt='Credits Avatar' />
 			</motion.a>
 		</motion.footer>
 	)

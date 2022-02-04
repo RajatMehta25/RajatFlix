@@ -1,13 +1,13 @@
 import { getOneMonthAgoReleaseDate } from "./utils";
 
-export const GITHUB_BASE_URL = "https://github.com/Th3Wall";
-export const GITHUB_AVATAR_URL = "https://avatars.githubusercontent.com/u/25078541?v=4";
+export const GITHUB_BASE_URL = "https://github.com/rajatmehta25";
+export const GITHUB_AVATAR_URL = "	https://avatars.githubusercontent.com/u/85251518?v=4";
 const GITHUB_ASSETS_BASE_URL = "https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/Fakeflix";
 export const LANG = "en-US";
 export const REGION = "IN";
 export const BASE_IMG_URL = "https://image.tmdb.org/t/p/original";
 export const FALLBACK_IMG_URL = `${GITHUB_ASSETS_BASE_URL}/Fakeflix_readme.png`;
-export const LOGO_URL = `${GITHUB_ASSETS_BASE_URL}/Fakeflix_logo.png`;
+export const LOGO_URL = require("./images/rajatflix.png").default;
 export const MOBILE_LOGO_URL = `${GITHUB_ASSETS_BASE_URL}/Fakeflix_favicon_192.png`;
 export const PROFILE_PIC_URL = `${GITHUB_ASSETS_BASE_URL}/Fakeflix_profilepic.png`;
 export const SIGNIN_BGIMG_URL = `${GITHUB_ASSETS_BASE_URL}/Fakeflix_auth_bg.jpg`;
