@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/RajatMehta25/RajatFlix/static/css/main.52cc04f7.chunk.css",
+    "main.js": "/RajatMehta25/RajatFlix/static/js/main.845da00c.chunk.js",
+    "main.js.map": "/RajatMehta25/RajatFlix/static/js/main.845da00c.chunk.js.map",
+    "runtime-main.js": "/RajatMehta25/RajatFlix/static/js/runtime-main.53ab8d23.js",
+    "runtime-main.js.map": "/RajatMehta25/RajatFlix/static/js/runtime-main.53ab8d23.js.map",
+    "static/css/2.b4e4841b.chunk.css": "/RajatMehta25/RajatFlix/static/css/2.b4e4841b.chunk.css",
+    "static/js/2.0e5c3a03.chunk.js": "/RajatMehta25/RajatFlix/static/js/2.0e5c3a03.chunk.js",
+    "static/js/2.0e5c3a03.chunk.js.map": "/RajatMehta25/RajatFlix/static/js/2.0e5c3a03.chunk.js.map",
+    "index.html": "/RajatMehta25/RajatFlix/index.html",
+    "static/css/2.b4e4841b.chunk.css.map": "/RajatMehta25/RajatFlix/static/css/2.b4e4841b.chunk.css.map",
+    "static/css/main.52cc04f7.chunk.css.map": "/RajatMehta25/RajatFlix/static/css/main.52cc04f7.chunk.css.map",
+    "static/js/2.0e5c3a03.chunk.js.LICENSE.txt": "/RajatMehta25/RajatFlix/static/js/2.0e5c3a03.chunk.js.LICENSE.txt",
+    "static/media/rajatflix.png": "/RajatMehta25/RajatFlix/static/media/rajatflix.4d880d5a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53ab8d23.js",
+    "static/css/2.b4e4841b.chunk.css",
+    "static/js/2.0e5c3a03.chunk.js",
+    "static/css/main.52cc04f7.chunk.css",
+    "static/js/main.845da00c.chunk.js"
+  ]
+}
