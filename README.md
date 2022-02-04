@@ -95,7 +95,7 @@ I have also added a button that lets you sign in anonymously.
 <br/>
 
 **Homepage**
-![Screenshot of Fakeflix Homepage](https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/Fakeflix/screenshots/Fakeflix_Home.jpg)
+![Screenshot of Fakeflix Homepage](https://github.com/RajatMehta25/RajatFlix/blob/master/public/HomePage.png)
 <br/>
 
 **Modal Detail**
