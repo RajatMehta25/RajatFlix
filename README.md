@@ -1,7 +1,7 @@
 <h1 align="center">RAJATFLIX</h1>
 <h5 align="center">Not the usual clone that you can find on the web.</h5><br/>
 
-![Image of Fakeflix Project](https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/Fakeflix/Fakeflix_readme.png)
+![Image of Fakeflix Project](https://github.com/RajatMehta25/RajatFlix/blob/master/src/images/rajatflix.png)
 
 https://user-images.githubusercontent.com/25078541/123811962-01474580-d8f4-11eb-83ba-66cded3f321f.mp4
 
@@ -87,11 +87,11 @@ I have also added a button that lets you sign in anonymously.
 ## 📸 Screenshots
 
 **Sign In**
-![Screenshot of Fakeflix Sign In](https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/Fakeflix/screenshots/Fakeflix_SignIn.jpg)
+![Screenshot of Fakeflix Sign In](https://github.com/RajatMehta25/RajatFlix/blob/master/public/SignIn.png)
 <br/>
 
 **Sign Up**
-![Screenshot of Fakeflix Sign Up](https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/Fakeflix/screenshots/Fakeflix_SignUp.jpg)
+![Screenshot of Fakeflix Sign Up](https://github.com/RajatMehta25/RajatFlix/blob/master/public/SignUp.png)
 <br/>
 
 **Homepage**
